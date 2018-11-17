@@ -9,4 +9,4 @@
 
 # Folder structure
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
