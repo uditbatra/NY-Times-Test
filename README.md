@@ -7,5 +7,6 @@
 # Test Case
   To demonstarate the test case, I have created a test case for List Articles.
 
-# File structure
+# Folder structure
 
+https://user-images.githubusercontent.com/3806195/48661741-edc97200-ea9c-11e8-8154-8d17e4fe855b.png
